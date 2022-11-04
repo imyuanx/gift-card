@@ -1,0 +1,22 @@
+{
+  "name": "gift-card",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "yuanx <yuanx.me@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite dev --host",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@types/react": "^18.0.24",
+    "@types/react-dom": "^18.0.8",
+    "@vitejs/plugin-react": "^2.2.0",
+    "atropos": "^1.0.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hot-toast": "^2.4.0",
+    "typescript": "^4.8.4",
+    "vite": "^3.2.2"
+  }
+}
